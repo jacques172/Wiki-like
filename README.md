@@ -17,3 +17,12 @@ Markdown to HTML Conversion.
 
 
 ![2](https://user-images.githubusercontent.com/96381612/206857381-490faf8c-9043-49fe-ba7f-47018dd2cd75.png)
+
+## Set up
+`pip install Django`
+
+`pip install markdown2` 
+
+`python manage.py makemigrations`
+
+`python manage.py runserver`
